@@ -14,3 +14,4 @@ Settings.bundle
 Pods
 Podfile.lock
 *.xcworkspace
+Carthage
